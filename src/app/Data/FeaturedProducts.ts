@@ -135,20 +135,21 @@ import { Products } from "../ValueObject/Product.vo"
       createdAt: new Date(),
       updatedAt: new Date(),
       status: "available"
-    },
-    {
-      id: 10,
-      mainImage: "https://images.pexels.com/photos/28479466/pexels-photo-28479466/free-photo-of-modern-laundry-room-with-washer-and-dryer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      otherImages: ["", ""],
-      title: "Washing Machine - Whirlpool 6kg",
-      description: "Top-load machine. Good condition. Available with delivery option in city.",
-      category: "Appliances",
-      price: 7500.00,
-      state: "Telangana",
-      city: "Hyderabad",
-      sellerId: 10,
-      createdAt: new Date(),
-      updatedAt: new Date(),
-      status: "available"
     }
+    // ,
+    // {
+    //   id: 10,
+    //   mainImage: "https://images.pexels.com/photos/28479466/pexels-photo-28479466/free-photo-of-modern-laundry-room-with-washer-and-dryer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    //   otherImages: ["", ""],
+    //   title: "Washing Machine - Whirlpool 6kg",
+    //   description: "Top-load machine. Good condition. Available with delivery option in city.",
+    //   category: "Appliances",
+    //   price: 7500.00,
+    //   state: "Telangana",
+    //   city: "Hyderabad",
+    //   sellerId: 10,
+    //   createdAt: new Date(),
+    //   updatedAt: new Date(),
+    //   status: "available"
+    // }
   ]
